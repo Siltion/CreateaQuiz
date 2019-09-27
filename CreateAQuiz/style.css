@@ -1,0 +1,102 @@
+html {
+    padding: 20px;
+    background-color: rgb(91, 116, 170);
+}
+
+body {
+    background-color: white;
+    border-radius: 10px;
+    margin: 0 auto;
+    border: solid;
+    border-width: 2px;
+    width: 600px;
+    padding: 50px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.line {
+    width: 500px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 2px;
+}
+
+h2 {
+    text-align: left;
+    padding-left: 15px;
+    font-family: 'Abel', sans-serif;
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Abel', sans-serif;
+}
+
+li {
+    text-align: left;
+    font-family: 'Abel', sans-serif;
+}
+
+.B1 {
+    background-color: rgb(91, 116, 170);
+    border-radius: 2px;
+    width: 150px;
+    height: 40px;
+    border: none;
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+    opacity: 0.6;
+    transition: 0.3s;
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+
+.B1:hover {opacity: 1}
+
+.C1 {
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+.C2 {
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+.C3 {
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+.C4 {
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.F1 {
+    padding: 5px;
+}
+.F2 {
+    padding: 5px;
+}
+.F3 {
+    padding: 5px;
+}
+.F4 {
+    padding: 5px;
+}
+
+.input {
+    border-radius: 5px;
+    border: solid;
+    border-width: 2px;
+}
